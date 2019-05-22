@@ -1,0 +1,3 @@
+[submodule "caffe-sfa"]
+	path = caffe-sfa
+	url = https://github.com/mahyarnajibi/caffe-ssh.git

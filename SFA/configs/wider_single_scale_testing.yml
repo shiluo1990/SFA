@@ -1,0 +1,5 @@
+EXP_DIR: sfa_single_scale
+TEST:
+  SCALES: !!python/tuple [1200,]
+  MAX_SIZE: 1600
+

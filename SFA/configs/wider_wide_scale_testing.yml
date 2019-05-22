@@ -1,0 +1,9 @@
+EXP_DIR: sfa_wide_scale
+TEST:
+  SCALES: !!python/tuple [500,600,700,800,900,1000,1100,1200,1600,]
+  PYRAMID_BASE_SIZE: !!python/tuple [800,1200]
+  MAX_SIZE: -1
+  NMS_THRESH: 0.3
+  N_DETS_PER_MODULE: 1000
+  ANCHOR_MIN_SIZE: 0
+

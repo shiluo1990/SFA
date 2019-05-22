@@ -1,0 +1,7 @@
+EXP_DIR: sfa_single_scale
+TRAIN:
+  SCALES: !!python/tuple [1200,]
+  MAX_SIZE: 1600
+  SNAPSHOT: 1000
+  HARD_POSITIVE_MINING: True
+
