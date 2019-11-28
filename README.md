@@ -1,4 +1,4 @@
-# [SFA: Small Faces Attention Face Detector](https://arxiv.org/abs/1812.08402)
+# [SFA: Small Faces Attention Face Detector](https://ieeexplore.ieee.org/document/8911451)
 
 ## Introduction
 This repository includes the training and evaluating codes for *SFA* face detector, implemented in pycaffe. The SFA codes is an extension of the [SSH](https://github.com/mahyarnajibi/SSH) repository. Our method is trained on the training set of the WIDER FACE dataset.
