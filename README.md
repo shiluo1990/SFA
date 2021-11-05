@@ -1,7 +1,7 @@
 # [SFA: Small Faces Attention Face Detector](https://ieeexplore.ieee.org/document/8911451)
 
 ## Introduction
-This repository includes the training and evaluating codes for *SFA* face detector, implemented in pycaffe. The SFA codes is an extension of the [SSH](https://github.com/mahyarnajibi/SSH) repository. Our method is trained on the training set of the WIDER FACE dataset.
+This repository includes the training and evaluating codes for *SFA* face detector, implemented in pycaffe. The SFA codes is an extension of the [SSH](https://github.com/mahyarnajibi/SSH) repository. Our method is trained on the training set of the WIDER FACE dataset. If it is useful, please light up a star for this repository.
 
 ## Contents
 1. [Installation](#install)
@@ -86,6 +86,12 @@ If you can't download the pre-trained *VGG-16* ImageNet model via the above scri
 link: https://pan.baidu.com/s/1VqiwWHiFPnDefMymgdgbdA
 extraction code: 7790
 ```
+
+or Google Drive
+```
+link:https://drive.google.com/drive/folders/1W9U1gYcRDMpIEH5DG8JloqZNOU89c5GR?usp=sharing
+```
+
 By default, the model is saved into a folder named ```data/imagenet_models```.
 #### 3.3. WIDER FACE Dataset Download
 For training and evaluation on the *WIDER* dataset, you need to download the WIDER FACE dataset from the [WIDER FACE dataset website](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/). These files should be copied into ```data/datasets/wider/```.
