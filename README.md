@@ -147,11 +147,14 @@ The evaluation results in our paper are offered in ```paper_result/evaluation```
 ## Citation
 If this project helps your research, please consider citing the following papers:
 ```
-@inproceedings{shiluo2019sfa,
-   title={{SFA}: Small Faces Attention Face Detector},
-   author={Shi, Luo and Xiongfei, Li and Rui, Zhu and Xiaoli, Zhang},
-   journal={Signal Processing: Image Communication},
-   year={2019}
+@article{luo2019sfa,
+  title={SFA: Small faces attention face detector},
+  author={Luo, Shi and Li, Xiongfei and Zhu, Rui and Zhang, Xiaoli},
+  journal={IEEE Access},
+  volume={7},
+  pages={171609--171620},
+  year={2019},
+  publisher={IEEE}
 }
 
 @inproceedings{najibi2017ssh,
