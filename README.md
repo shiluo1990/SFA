@@ -167,4 +167,5 @@ If this project helps your research, please consider citing the following papers
 
 ## Contact
 To ask questions or report issues, please open an issue on the [issues tracker](https://github.com/shiluo1990/SFA/issues).
+Email: 1093945458@qq.com or shiluo1990@hotmail.com
 
