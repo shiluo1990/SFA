@@ -89,7 +89,7 @@ extraction code: 7790
 
 or Google Drive
 ```
-link:https://drive.google.com/drive/folders/1W9U1gYcRDMpIEH5DG8JloqZNOU89c5GR?usp=sharing
+link: https://drive.google.com/drive/folders/1W9U1gYcRDMpIEH5DG8JloqZNOU89c5GR?usp=sharing
 ```
 
 By default, the model is saved into a folder named ```data/imagenet_models```.
