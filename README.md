@@ -65,6 +65,12 @@ To run the demo, you need to download the provided pre-trained *SFA* model from 
 link: https://pan.baidu.com/s/1LAWhtiATbPHKweMeY8hVaQ
 extraction code: ica9
 ```
+
+or Google Drive
+```
+link: https://drive.google.com/drive/folders/1W9U1gYcRDMpIEH5DG8JloqZNOU89c5GR?usp=sharing
+```
+
 By default, the model is saved into a folder named ```data/SFA_models```.
 
 Before starting to run demo, you should have a directory structure as follows:
@@ -85,11 +91,6 @@ If you can't download the pre-trained *VGG-16* ImageNet model via the above scri
 ```
 link: https://pan.baidu.com/s/1VqiwWHiFPnDefMymgdgbdA
 extraction code: 7790
-```
-
-or Google Drive
-```
-link: https://drive.google.com/drive/folders/1W9U1gYcRDMpIEH5DG8JloqZNOU89c5GR?usp=sharing
 ```
 
 By default, the model is saved into a folder named ```data/imagenet_models```.
